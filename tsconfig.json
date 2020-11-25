@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        // "esModuleInterop": true,
+        "incremental": true, // 增量编译
+        "allowJs": true,
+        "lib": [
+            "es6",
+            "dom",
+            "es2017"
+        ],
+        "types": []
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
